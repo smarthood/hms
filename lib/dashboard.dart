@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:navicon/OPD.dart';
+// import 'package:navicon/OPD.dart';
 import 'ind.dart';
 import 'OPD.dart';
 import 'pharmacy.dart';
