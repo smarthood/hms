@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 class bill extends StatelessWidget {
   const bill({Key? key}) : super(key: key);
 
@@ -7,11 +8,8 @@ class bill extends StatelessWidget {
     return Scaffold(
       body: Center(
           child: Column(
-            children: [
-              Text('bill')
-            ],
-          )
-      ),
+        children: [Text('biall')],
+      )),
     );
   }
 }
