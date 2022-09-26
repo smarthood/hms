@@ -8,7 +8,7 @@ class appoint extends StatelessWidget {
       body: Center(
           child: Column(
             children: [
-              Text('appoint')
+              Text('apponint')
             ],
           )
       ),
